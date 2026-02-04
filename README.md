@@ -32,8 +32,8 @@ Os usuários devem conseguir:
 
 ### Links
 
-- URL da solução: [https://github.com/seuusername/social-links-profile](https://github.com/seuusername/social-links-profile)
-- URL do site ao vivo: [https://seuusername.github.io/social-links-profile](https://seuusername.github.io/social-links-profile)
+- URL da solução: [https://github.com/Davilla07/Social-links-profile.git](https://github.com/Davilla07/Social-links-profile.git)
+- URL do site ao vivo: [https://davilla07.github.io/Social-links-profile/](https://davilla07.github.io/Social-links-profile/)
 
 ## Meu processo
 
